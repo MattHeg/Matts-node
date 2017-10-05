@@ -1,0 +1,12 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index.js"
+  },
+  "author": "Matt H",
+  "license": "ISC"
+}
