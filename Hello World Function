@@ -1,0 +1,6 @@
+function HW(){
+  alert("Hello World");
+  return HW
+}
+
+HW();
