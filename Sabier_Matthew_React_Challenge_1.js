@@ -29,4 +29,4 @@ function bingeWatch(episodes){
   
   return bingeWatch(removeFromPlaylist(episodes, nextEpisode) );
 }
-bingeWatch(addToPlaylist(episodes, finaleEpisode)
+bingeWatch(addToPlaylist(episodes, finaleEpisode));
